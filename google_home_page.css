@@ -66,6 +66,14 @@ ul li a{
     border-radius: 30px;
     border: solid 2px black;
     margin-left: 32%;
+    overflow: auto;
+    padding-right: 90px;
+    padding-left: 50px;
+    font-size: 18px;
+    border: none;
+}
+.search_bar:focus{
+    border: none;
 }
 .search_img{
     position: absolute;
