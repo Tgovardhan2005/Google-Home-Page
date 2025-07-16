@@ -81,14 +81,13 @@ ul li a{
     position: absolute;
     top: 116px;
     margin-left: 47px;
-    padding-right: 90px;
-    padding-left: 50px;
     font-size: 18px;
     border: none;
     z-index: 1;
 }
 .search_bar:focus{
-    border: none;
+    outline: none;
+    box-shadow: none;
 }
 .search_img{
     position: absolute;
