@@ -21,6 +21,6 @@ This repository contains a simple clone of the Google search engine home page. T
 2. **Open the project:**
    - Navigate to the project directory.
    - Open `index.html` in your web browser.
-   - 
+     
 ## License
 This project is for educational purposes only and is not affiliated with Google.
