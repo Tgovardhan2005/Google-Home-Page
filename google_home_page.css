@@ -159,9 +159,8 @@ ul li a{
 
 .footer1{
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 151px;
     margin-left: -10px;
-    width:101%;
+    width:100%;
     padding-left: 30px;
     display: flex;
     align-items: flex-start;
@@ -170,7 +169,7 @@ ul li a{
 .footer2{
     font-family: Arial, Helvetica, sans-serif;
     margin-left: -10px;
-    width:101%;
+    width:100%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -196,7 +195,14 @@ p{
     background-color: #1f2128;
     font-size: 14px;
 }
-
+.footer1{
+    position: absolute;
+    bottom: 45px;
+}
+.footer2{
+    position: absolute;
+    bottom: 0px;
+}
 @media (max-width:600px){
     .google{
         height: 82px;
