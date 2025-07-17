@@ -3,6 +3,8 @@
 
 This repository contains a simple clone of the Google search engine home page. The project is built using HTML and CSS to closely resemble the original Google homepage layout and design.
 
+⚠️ **Disclaimer:** This project is a **frontend clone created solely for educational purposes**. It is **not affiliated with, endorsed by, or connected to Google Inc.** in any way. This site does not collect any user data, does not perform any actual search operations, and is meant only to showcase basic web development skills.
+
 ## Features
 
 - Responsive design similar to the official Google homepage
