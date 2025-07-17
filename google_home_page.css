@@ -198,6 +198,11 @@ p{
     position: absolute;
     bottom: 45px;
 }
+.disclaimer{
+    color: red;
+    margin-top: 12px;
+    margin-left: 20px;
+}
 .footer2{
     position: absolute;
     bottom: 0px;
